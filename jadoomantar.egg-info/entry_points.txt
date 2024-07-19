@@ -1,0 +1,2 @@
+[console_scripts]
+jadoomantar = jadoomantar.main:invisibility_cloak

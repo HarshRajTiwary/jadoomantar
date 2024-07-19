@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+jadoomantar/__init__.py
+jadoomantar/main.py
+jadoomantar.egg-info/PKG-INFO
+jadoomantar.egg-info/SOURCES.txt
+jadoomantar.egg-info/dependency_links.txt
+jadoomantar.egg-info/entry_points.txt
+jadoomantar.egg-info/requires.txt
+jadoomantar.egg-info/top_level.txt
